@@ -29,6 +29,6 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
-
+# Configured Slack #upptime @emryl
 
 # https://sl.se/?mode=travelPlanner&origName=S%C3%B6rskogen+%28Huddinge%29&origSiteId=7020&origPlaceId=QT0xQE89U8O2cnNrb2dlbiAoSHVkZGluZ2UpQFg9MTc5ODk5NTlAWT01OTIyMjI2NUBVPTc0QEw9MzAwMTA3MDIwQEI9MUBwPTE2NzY3NzU2MjFA&destName=SL+Huvudkontor%2C+Lindhagensgatan+100&destPlaceId=QT00QE89U0wgSHV2dWRrb250b3IsIExpbmRoYWdlbnNnYXRhbiAxMDBAWD0xODAxMzgwN0BZPTU5MzM1MTA3QFU9MTc1QEw9OTgwMDAwMDA0QEI9MUBwPTE2NzY2ODkzMTJA&transportTypes=111&enableOccupancyInformation=true
