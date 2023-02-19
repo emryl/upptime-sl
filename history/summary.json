@@ -1,23 +1,21 @@
 [
   {
     "name": "SL",
-    "url": "https://www.sl.se",
-    "icon": "https://icons.duckduckgo.com/ip3/www.sl.se.ico",
+    "url": "https://sl.se",
+    "icon": "https://icons.duckduckgo.com/ip3/sl.se.ico",
     "slug": "sl",
-    "status": "down",
-    "uptime": "24.40%",
-    "uptimeDay": "24.40%",
-    "uptimeWeek": "24.40%",
-    "uptimeMonth": "24.40%",
-    "uptimeYear": "24.40%",
-    "time": 1139,
-    "timeDay": 1139,
-    "timeWeek": 1139,
-    "timeMonth": 1139,
-    "timeYear": 1139,
-    "dailyMinutesDown": {
-      "2023-02-19": 0
-    }
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1454,
+    "timeDay": 1454,
+    "timeWeek": 1454,
+    "timeMonth": 1454,
+    "timeYear": 1454,
+    "dailyMinutesDown": {}
   },
   {
     "name": "SL Mina sidor",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2164,
-    "timeDay": 2164,
-    "timeWeek": 2164,
-    "timeMonth": 2164,
-    "timeYear": 2164,
+    "time": 2453,
+    "timeDay": 2453,
+    "timeWeek": 2453,
+    "timeMonth": 2453,
+    "timeYear": 2453,
     "dailyMinutesDown": {}
   }
 ]
