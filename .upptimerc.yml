@@ -7,8 +7,10 @@ sites:
     url: https://sl.se
   - name: SL Reseplaneraren 01
     url: $SITE_SLRESESOKAPI_01
+    icon: https://icons.duckduckgo.com/ip3/sl.se.ico
   - name: SL Mina sidor
     url: https://mitt.sl.se
+    icon: https://icons.duckduckgo.com/ip3/sl.se.ico
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
