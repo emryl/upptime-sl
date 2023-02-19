@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/sl.se.ico",
     "slug": "sl",
     "status": "up",
-    "uptime": "2.76%",
-    "uptimeDay": "2.76%",
-    "uptimeWeek": "2.76%",
-    "uptimeMonth": "2.76%",
-    "uptimeYear": "2.76%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1454,
     "timeDay": 1454,
     "timeWeek": 1454,
     "timeMonth": 1454,
     "timeYear": 1454,
-    "dailyMinutesDown": {
-      "2023-02-19": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SL Mina sidor",
