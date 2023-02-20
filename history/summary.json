@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1392,
-    "timeDay": 1529,
-    "timeWeek": 1392,
-    "timeMonth": 1392,
-    "timeYear": 1392,
+    "time": 1396,
+    "timeDay": 1509,
+    "timeWeek": 1396,
+    "timeMonth": 1396,
+    "timeYear": 1396,
     "dailyMinutesDown": {}
   },
   {
@@ -29,51 +29,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 132,
-    "timeDay": 137,
+    "timeDay": 136,
     "timeWeek": 132,
     "timeMonth": 132,
     "timeYear": 132,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "SL Webcloud API 01",
-    "url": "$SITE_SLWEBCLOUDAPI_01",
-    "icon": "https://icons.duckduckgo.com/ip3/sl.se.ico",
-    "slug": "sl-webcloud-api-01",
-    "status": "down",
-    "uptime": "0.71%",
-    "uptimeDay": "0.71%",
-    "uptimeWeek": "0.71%",
-    "uptimeMonth": "0.71%",
-    "uptimeYear": "0.71%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2023-02-20": 6
-    }
-  },
-  {
-    "name": "Trafikläget",
-    "url": "https://webcloud.sl.se/api/v2/trafficsituationsummaries",
-    "icon": "https://icons.duckduckgo.com/ip3/sl.se.ico",
-    "slug": "trafiklaeget",
-    "status": "down",
-    "uptime": "0.18%",
-    "uptimeDay": "0.18%",
-    "uptimeWeek": "0.18%",
-    "uptimeMonth": "0.18%",
-    "uptimeYear": "0.18%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2023-02-20": 5
-    }
   },
   {
     "name": "SL Mina sidor",
@@ -86,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2224,
-    "timeDay": 2252,
-    "timeWeek": 2224,
-    "timeMonth": 2224,
-    "timeYear": 2224,
+    "time": 2160,
+    "timeDay": 2119,
+    "timeWeek": 2160,
+    "timeMonth": 2160,
+    "timeYear": 2160,
     "dailyMinutesDown": {}
   }
 ]
