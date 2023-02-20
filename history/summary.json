@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1444,
-    "timeDay": 1846,
-    "timeWeek": 1444,
-    "timeMonth": 1444,
-    "timeYear": 1444,
+    "time": 1425,
+    "timeDay": 1662,
+    "timeWeek": 1425,
+    "timeMonth": 1425,
+    "timeYear": 1425,
     "dailyMinutesDown": {}
   },
   {
@@ -29,7 +29,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 137,
-    "timeDay": 154,
+    "timeDay": 147,
     "timeWeek": 137,
     "timeMonth": 137,
     "timeYear": 137,
@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sl.se.ico",
     "slug": "sl-webcloud-api-01",
     "status": "down",
-    "uptime": "8.56%",
-    "uptimeDay": "8.56%",
-    "uptimeWeek": "8.56%",
-    "uptimeMonth": "8.56%",
-    "uptimeYear": "8.56%",
+    "uptime": "1.57%",
+    "uptimeDay": "1.57%",
+    "uptimeWeek": "1.57%",
+    "uptimeMonth": "1.57%",
+    "uptimeYear": "1.57%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-20": 0
+      "2023-02-20": 2
     }
   },
   {
@@ -61,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sl.se.ico",
     "slug": "trafiklaeget",
     "status": "down",
-    "uptime": "7.08%",
-    "uptimeDay": "7.08%",
-    "uptimeWeek": "7.08%",
-    "uptimeMonth": "7.08%",
-    "uptimeYear": "7.08%",
+    "uptime": "1.08%",
+    "uptimeDay": "1.08%",
+    "uptimeWeek": "1.08%",
+    "uptimeMonth": "1.08%",
+    "uptimeYear": "1.08%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-20": 0
+      "2023-02-20": 2
     }
   },
   {
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2310,
-    "timeDay": 2580,
-    "timeWeek": 2310,
-    "timeMonth": 2310,
-    "timeYear": 2310,
+    "time": 2328,
+    "timeDay": 2539,
+    "timeWeek": 2328,
+    "timeMonth": 2328,
+    "timeYear": 2328,
     "dailyMinutesDown": {}
   }
 ]
