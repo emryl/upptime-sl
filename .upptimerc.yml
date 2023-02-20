@@ -8,12 +8,6 @@ sites:
   - name: SL Reseplaneraren 01
     url: $SITE_SLRESESOKAPI_01
     icon: https://icons.duckduckgo.com/ip3/sl.se.ico
-  - name: SL Webcloud API 01
-    url: $SITE_SLWEBCLOUDAPI_01
-    icon: https://icons.duckduckgo.com/ip3/sl.se.ico
-  - name: Trafikläget
-    url: https://webcloud.sl.se/api/v2/trafficsituationsummaries
-    icon: https://icons.duckduckgo.com/ip3/sl.se.ico
   - name: SL Mina sidor
     url: https://mitt.sl.se
     icon: https://icons.duckduckgo.com/ip3/sl.se.ico
