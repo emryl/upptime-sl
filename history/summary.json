@@ -4,10 +4,10 @@
     "url": "https://sl.se",
     "icon": "https://icons.duckduckgo.com/ip3/sl.se.ico",
     "slug": "sl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1379,
@@ -15,17 +15,19 @@
     "timeWeek": 1305,
     "timeMonth": 1379,
     "timeYear": 1379,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-14": 1
+    }
   },
   {
     "name": "SL Reseplaneraren 01",
     "url": "$SITE_SLRESESOKAPI_01",
     "icon": "https://icons.duckduckgo.com/ip3/sl.se.ico",
     "slug": "sl-reseplaneraren-01",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 135,
@@ -33,16 +35,18 @@
     "timeWeek": 134,
     "timeMonth": 135,
     "timeYear": 135,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-14": 1
+    }
   },
   {
     "name": "SL Mina sidor",
     "url": "https://mitt.sl.se",
     "icon": "https://icons.duckduckgo.com/ip3/sl.se.ico",
     "slug": "sl-mina-sidor",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,6 +55,8 @@
     "timeWeek": 2550,
     "timeMonth": 2367,
     "timeYear": 2367,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-14": 0
+    }
   }
 ]
