@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.93%",
-    "time": 1318,
-    "timeDay": 926,
-    "timeWeek": 1108,
-    "timeMonth": 1253,
-    "timeYear": 1318,
+    "time": 1310,
+    "timeDay": 842,
+    "timeWeek": 1094,
+    "timeMonth": 1241,
+    "timeYear": 1310,
     "dailyMinutesDown": {
       "2023-03-14": 41
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sl.se.ico",
     "slug": "sl-reseplaneraren-01",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "99.93%",
-    "time": 144,
-    "timeDay": 107,
+    "uptimeYear": "99.94%",
+    "time": 143,
+    "timeDay": 109,
     "timeWeek": 135,
-    "timeMonth": 150,
-    "timeYear": 144,
+    "timeMonth": 149,
+    "timeYear": 143,
     "dailyMinutesDown": {
       "2023-03-14": 41
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.94%",
-    "time": 2284,
-    "timeDay": 1753,
-    "timeWeek": 2284,
-    "timeMonth": 2266,
-    "timeYear": 2284,
+    "time": 2332,
+    "timeDay": 4896,
+    "timeWeek": 2746,
+    "timeMonth": 2348,
+    "timeYear": 2332,
     "dailyMinutesDown": {
       "2023-03-14": 41
     }
