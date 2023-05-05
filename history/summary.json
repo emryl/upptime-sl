@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1310,
-    "timeDay": 1242,
-    "timeWeek": 1325,
-    "timeMonth": 1311,
+    "timeDay": 1469,
+    "timeWeek": 1319,
+    "timeMonth": 1310,
     "timeYear": 1310,
     "dailyMinutesDown": {
       "2023-03-14": 41
@@ -31,7 +31,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 143,
-    "timeDay": 135,
+    "timeDay": 152,
     "timeWeek": 137,
     "timeMonth": 144,
     "timeYear": 143,
@@ -50,13 +50,33 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 2256,
-    "timeDay": 1325,
-    "timeWeek": 1433,
-    "timeMonth": 2117,
-    "timeYear": 2256,
+    "time": 2246,
+    "timeDay": 1389,
+    "timeWeek": 1430,
+    "timeMonth": 2094,
+    "timeYear": 2246,
     "dailyMinutesDown": {
       "2023-03-14": 41
+    }
+  },
+  {
+    "name": "foretagare.sl.se",
+    "url": "https://foretagare.sl.se/",
+    "icon": "https://icons.duckduckgo.com/ip3/sl.se.ico",
+    "slug": "foretagare-sl-se",
+    "status": "down",
+    "uptime": "85.93%",
+    "uptimeDay": "85.93%",
+    "uptimeWeek": "85.93%",
+    "uptimeMonth": "85.93%",
+    "uptimeYear": "85.93%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-05-05": 0
     }
   }
 ]
