@@ -12,7 +12,7 @@ sites:
     url: https://mitt.sl.se
     icon: https://icons.duckduckgo.com/ip3/sl.se.ico
   - name: foretagare.sl.se
-    url: https://foretagare.sl.se/
+    url: https://foretagare.sl.se/foretag/
     icon: https://icons.duckduckgo.com/ip3/sl.se.ico
 
 status-website:
