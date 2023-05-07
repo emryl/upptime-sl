@@ -4,10 +4,10 @@
     "url": "https://sl.se",
     "icon": "https://icons.duckduckgo.com/ip3/sl.se.ico",
     "slug": "sl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1308,
@@ -16,6 +16,7 @@
     "timeMonth": 1317,
     "timeYear": 1308,
     "dailyMinutesDown": {
+      "2023-05-07": 1,
       "2023-03-14": 41
     }
   },
@@ -76,7 +77,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-07": 502,
+      "2023-05-07": 652,
       "2023-05-06": 1440,
       "2023-05-05": 334
     }
