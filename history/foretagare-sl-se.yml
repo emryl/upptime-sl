@@ -1,7 +1,7 @@
 url: https://foretagare.sl.se/foretag/
-status: down
-code: 500
-responseTime: 21827
-lastUpdated: 2023-10-27T11:00:40.872Z
+status: up
+code: 200
+responseTime: 843
+lastUpdated: 2023-10-27T11:12:45.924Z
 startTime: 2023-05-05T18:25:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
