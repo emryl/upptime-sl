@@ -10,19 +10,18 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.16%",
-    "time": 1318,
-    "timeDay": 1493,
-    "timeWeek": 1340,
-    "timeMonth": 1210,
-    "timeYear": 1313,
+    "time": 1317,
+    "timeDay": 887,
+    "timeWeek": 1231,
+    "timeMonth": 1193,
+    "timeYear": 1311,
     "dailyMinutesDown": {
       "2023-09-19": 558,
       "2023-09-18": 1440,
       "2023-09-17": 1440,
       "2023-09-16": 685,
       "2023-09-12": 18,
-      "2023-07-27": 224,
-      "2023-03-14": 41
+      "2023-07-27": 224
     }
   },
   {
@@ -37,9 +36,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.16%",
     "time": 139,
-    "timeDay": 172,
-    "timeWeek": 145,
-    "timeMonth": 144,
+    "timeDay": 120,
+    "timeWeek": 147,
+    "timeMonth": 142,
     "timeYear": 139,
     "dailyMinutesDown": {
       "2023-09-19": 558,
@@ -47,8 +46,7 @@
       "2023-09-17": 1440,
       "2023-09-16": 684,
       "2023-09-12": 17,
-      "2023-07-27": 224,
-      "2023-03-14": 41
+      "2023-07-27": 224
     }
   },
   {
@@ -62,11 +60,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.12%",
-    "time": 1651,
-    "timeDay": 1715,
-    "timeWeek": 1452,
-    "timeMonth": 1540,
-    "timeYear": 1592,
+    "time": 1650,
+    "timeDay": 1061,
+    "timeWeek": 1485,
+    "timeMonth": 1519,
+    "timeYear": 1589,
     "dailyMinutesDown": {
       "2023-09-19": 558,
       "2023-09-18": 1440,
@@ -74,8 +72,7 @@
       "2023-09-16": 684,
       "2023-09-12": 27,
       "2023-08-17": 192,
-      "2023-07-27": 224,
-      "2023-03-14": 41
+      "2023-07-27": 224
     }
   },
   {
@@ -84,16 +81,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sl.se.ico",
     "slug": "foretagare-sl-se",
     "status": "up",
-    "uptime": "97.25%",
+    "uptime": "97.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.25%",
-    "time": 1514,
-    "timeDay": 1295,
-    "timeWeek": 1126,
-    "timeMonth": 1617,
-    "timeYear": 1514,
+    "uptimeYear": "97.26%",
+    "time": 1513,
+    "timeDay": 909,
+    "timeWeek": 1082,
+    "timeMonth": 1606,
+    "timeYear": 1513,
     "dailyMinutesDown": {
       "2023-10-23": 562,
       "2023-10-22": 1440,
