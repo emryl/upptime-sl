@@ -14,7 +14,7 @@ sites:
   - name: foretagare.sl.se
     url: https://foretagare.sl.se/foretag/
     icon: https://icons.duckduckgo.com/ip3/sl.se.ico
-  - name: ns.rylander.io
+  - name: Nightscout
     url: $SITE_NIGHTSCOUT
     icon: https://github.com/nightscout/cgm-remote-monitor/blob/master/static/images/favicon-16x16.png
 
