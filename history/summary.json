@@ -107,19 +107,19 @@
     "url": "$SITE_NIGHTSCOUT",
     "icon": "https://github.com/nightscout/cgm-remote-monitor/blob/master/static/images/favicon-16x16.png",
     "slug": "nightscout",
-    "status": "down",
-    "uptime": "90.28%",
-    "uptimeDay": "90.28%",
-    "uptimeWeek": "90.28%",
-    "uptimeMonth": "90.28%",
-    "uptimeYear": "90.28%",
-    "time": 19901,
-    "timeDay": 19901,
-    "timeWeek": 19901,
-    "timeMonth": 19901,
-    "timeYear": 19901,
+    "status": "up",
+    "uptime": "86.84%",
+    "uptimeDay": "86.84%",
+    "uptimeWeek": "86.84%",
+    "uptimeMonth": "86.84%",
+    "uptimeYear": "86.84%",
+    "time": 19898,
+    "timeDay": 19898,
+    "timeWeek": 19898,
+    "timeMonth": 19898,
+    "timeYear": 19898,
     "dailyMinutesDown": {
-      "2024-05-31": 18
+      "2024-05-31": 26
     }
   }
 ]
