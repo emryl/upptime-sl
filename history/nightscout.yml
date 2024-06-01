@@ -1,7 +1,7 @@
 url: $SITE_NIGHTSCOUT
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-06-01T06:55:06.994Z
+status: up
+code: 200
+responseTime: 19726
+lastUpdated: 2024-06-01T07:21:11.977Z
 startTime: 2024-05-31T20:29:09.381Z
 generator: Upptime <https://github.com/upptime/upptime>
