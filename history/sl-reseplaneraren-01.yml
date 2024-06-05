@@ -1,7 +1,7 @@
 url: $SITE_SLRESESOKAPI_01
-status: down
-code: 400
-responseTime: 7117
-lastUpdated: 2024-06-05T06:19:03.217Z
+status: up
+code: 200
+responseTime: 1283
+lastUpdated: 2024-06-05T06:35:19.076Z
 startTime: 2023-02-19T18:25:01.000Z
 generator: Upptime <https://github.com/upptime/upptime>
