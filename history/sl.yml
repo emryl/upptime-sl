@@ -1,7 +1,7 @@
 url: https://sl.se
-status: up
-code: 200
-responseTime: 1146
-lastUpdated: 2024-10-21T23:06:31.837Z
+status: down
+code: 502
+responseTime: 696
+lastUpdated: 2024-10-22T08:59:53.453Z
 startTime: 2023-02-19T18:06:10.000Z
 generator: Upptime <https://github.com/upptime/upptime>
