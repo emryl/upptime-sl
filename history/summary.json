@@ -4,7 +4,7 @@
     "url": "https://sl.se",
     "icon": "https://icons.duckduckgo.com/ip3/sl.se.ico",
     "slug": "sl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1205,
     "timeYear": 1102,
     "dailyMinutesDown": {
+      "2025-09-02": 0,
       "2025-07-28": 30,
       "2025-07-21": 20,
       "2025-07-17": 18,
