@@ -40,18 +40,20 @@
     "url": "https://mitt.sl.se",
     "icon": "https://icons.duckduckgo.com/ip3/sl.se.ico",
     "slug": "sl-mina-sidor",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 999,
+    "time": 1000,
     "timeDay": 1087,
     "timeWeek": 1040,
     "timeMonth": 983,
     "timeYear": 1009,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-10": 0
+    }
   },
   {
     "name": "foretagare.sl.se",
