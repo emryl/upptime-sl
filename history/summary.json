@@ -6,14 +6,14 @@
     "slug": "sl",
     "status": "up",
     "uptime": "99.46%",
-    "uptimeDay": "95.88%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.41%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.88%",
     "time": 1102,
-    "timeDay": 1041,
-    "timeWeek": 1064,
-    "timeMonth": 994,
+    "timeDay": 1139,
+    "timeWeek": 1042,
+    "timeMonth": 997,
     "timeYear": 1112,
     "dailyMinutesDown": {
       "2026-05-03": 59,
@@ -48,10 +48,10 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
     "time": 998,
-    "timeDay": 1046,
-    "timeWeek": 985,
-    "timeMonth": 942,
-    "timeYear": 1007,
+    "timeDay": 1133,
+    "timeWeek": 1007,
+    "timeMonth": 940,
+    "timeYear": 1006,
     "dailyMinutesDown": {
       "2026-04-10": 56
     }
@@ -63,14 +63,14 @@
     "slug": "foretagare-sl-se",
     "status": "up",
     "uptime": "98.96%",
-    "uptimeDay": "95.87%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.41%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.82%",
     "time": 884,
-    "timeDay": 817,
-    "timeWeek": 851,
-    "timeMonth": 845,
+    "timeDay": 949,
+    "timeWeek": 826,
+    "timeMonth": 842,
     "timeYear": 897,
     "dailyMinutesDown": {
       "2026-05-03": 59,
@@ -98,8 +98,7 @@
       "2025-06-16": 23,
       "2025-06-11": 20,
       "2025-06-02": 22,
-      "2025-05-26": 28,
-      "2025-05-05": 19
+      "2025-05-26": 28
     }
   }
 ]
