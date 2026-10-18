@@ -53,16 +53,16 @@
     "url": "https://foretagare.sl.se/foretag/",
     "icon": "https://icons.duckduckgo.com/ip3/sl.se.ico",
     "slug": "foretagare-sl-se",
-    "status": "down",
-    "uptime": "99.08%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.85%",
+    "status": "up",
+    "uptime": "99.07%",
+    "uptimeDay": "86.47%",
+    "uptimeWeek": "98.07%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.81%",
     "time": 956,
-    "timeDay": 1328,
-    "timeWeek": 1313,
-    "timeMonth": 1128,
+    "timeDay": 1174,
+    "timeWeek": 1263,
+    "timeMonth": 1120,
     "timeYear": 983,
     "dailyMinutesDown": {
       "2026-01-03": 97,
@@ -79,7 +79,7 @@
       "2026-08-02": 63,
       "2026-08-08": 62,
       "2026-08-17": 83,
-      "2026-10-18": 0
+      "2026-10-18": 195
     }
   }
 ]
